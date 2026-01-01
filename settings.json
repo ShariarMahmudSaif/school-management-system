@@ -1,0 +1,10 @@
+{
+  "student_id_prefix": "STU-",
+  "teacher_id_prefix": "TCH-",
+  "student_custom_fields": [],
+  "teacher_custom_fields": [],
+  "default_year": 2026,
+  "default_month": 1,
+  "appearance_mode": "Light",
+  "ui_scaling": 1.0
+}
